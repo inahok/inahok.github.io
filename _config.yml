@@ -109,9 +109,9 @@ author:
       # url: "https://github.com/"
       # url: "https://instagram.com/"
 
-# Site Footer
-# footer:
-#   links: []
+Site Footer
+footer:
+  links: []
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       # url:
