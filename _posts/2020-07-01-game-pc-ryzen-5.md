@@ -66,4 +66,4 @@ NZXT H510 потому что:
 
 ## PS
 
-Рабочий, драйвер под Linux для Realtek RTL8125 можно взять [на github](https://github.com/TallGuy74/r8125)
+Рабочий драйвер под Linux для Realtek RTL8125 можно взять [на github](https://github.com/TallGuy74/r8125)
