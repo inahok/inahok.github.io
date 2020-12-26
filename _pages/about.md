@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /about/
 title: "About"
 ---
 
